@@ -1,0 +1,38 @@
+.container{
+    border: 1px solid lightgrey;
+    padding: 10px;
+    width: 305px;
+    height: 682px;
+    box-shadow: 10px 10px rgba(189, 185, 185, 0.2)
+}
+
+.box{
+    border: 1px solid lightgrey;
+    padding: 5px;
+    width: 293px;
+    height: 380px;  
+}   
+
+img{
+    width: 300px;
+    height: auto;
+    padding: 3px;
+}      
+
+#italics{
+    font-style: italic;
+    padding: 3px;
+}
+
+span.bold{
+    font-weight:bold;
+}
+
+ul{
+    list-style: none;
+    padding: 3px;
+}    
+
+.padding{
+    padding: 3px;
+}
